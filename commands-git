@@ -1,7 +1,13 @@
-Commandes pour cloner : git clone liendegithub
+Commandes pour cloner : 
+git clone liendegithub
 
 Commandes de push : 
-
 git push - push le commit sur git
 git push <remote> <branche> - push le commit en spécifiant un repo et une branche
 git push -all <remote> - pull les derniers commits d'une branche
+
+Mettre à jour le dépôt local:
+git pull
+
+Mettre à jour le dépôt local d'une branch spécifique:
+git pull origin MA_BRANCH
