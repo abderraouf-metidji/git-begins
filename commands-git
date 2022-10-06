@@ -11,3 +11,12 @@ git pull
 
 Mettre à jour le dépôt local d'une branch spécifique:
 git pull origin MA_BRANCH
+
+Créer une branche : 
+git branch nomdelabranche
+
+Pour vérifier qu'elle a bien été créer on peut utiliser : 
+git branch - cela va lister les branches qui sont dans le repo actuel
+
+Basculer / changer de branche : 
+git checkout nomdelabranche
